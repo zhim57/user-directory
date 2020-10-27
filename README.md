@@ -35,7 +35,7 @@ zhim57@yahoo.com
 ## Contributing
 the whole bootcamp team , my instructors and google
 ## License
-![GitHub](https://img.shields.io/github/license/zhim57/https://github.com/zhim57/user-directory)
+![GitHub](https://img.shields.io/github/license/zhim57/user-directory)
 
 ## Tests
 functionality tests
